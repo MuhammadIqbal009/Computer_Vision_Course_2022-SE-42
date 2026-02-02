@@ -50,6 +50,6 @@ The system generates an `annotated_evaluation.jpg` file to provide visual proof 
 ---
 
 ## 👤 Author
-**Muntazir Mehdi**
+**Muhammad Iqbal**
 
-**Roll No:** 2022-SE-37  
+**Roll No:** 2022-SE-42  
