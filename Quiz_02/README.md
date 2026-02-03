@@ -64,9 +64,9 @@ Classification: A Dense softmax layer outputs probabilities for 4 classes (1, 5,
 
 ## 👤 Author Information
 
-**Muntazir Mehdi**
+**Muhammad Iqbal**
 
-**2022-SE-37**
+**2022-SE-42**
 ---
 
 ## 📜 License
